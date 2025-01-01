@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf92c7f0-64df-436f-a02a-34ac9211478c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ecom-backend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/src/main/java/com/ecom/ecom_backend/EcomBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom-backend/src/test/java/com/ecom/ecom_backend/EcomBackendApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2r2NvYPAkHzFyqVO6KL1Hfb4RvK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Hustle/Web Dev/Projects/ecommerce-project/ecom-backend/backend"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf92c7f0-64df-436f-a02a-34ac9211478c" name="Changes" comment="" />
+      <created>1735753443141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735753443141</updated>
+    </task>
+    <servers />
+  </component>
+</project>
